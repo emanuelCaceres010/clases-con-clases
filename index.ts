@@ -37,6 +37,7 @@ class Banda2 {
 
     const unaBanda= new Banda2(["ema"], [unAlbum, unAlbum, unAlbum]);
     console.log(unaBanda.albums);
+    console.log("un cambio");
 //}
 
 //main();
